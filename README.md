@@ -129,6 +129,7 @@ void loop()
   delay(1000);
 }
 
+
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/964b4c51-8597-4e7e-845d-15a039ec1d2b)
 
