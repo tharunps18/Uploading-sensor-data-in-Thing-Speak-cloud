@@ -74,6 +74,9 @@ Automatically act on your data and communicate using third-party services like T
 ![image](https://user-images.githubusercontent.com/71547910/235334056-3ba9579f-2f62-43b1-a714-8fde6cf9ef32.png)
 
 
+
+
+
 # PROGRAM:
 #include"ThingSpeak.h"
 #include <WiFi.h>
@@ -128,6 +131,7 @@ void loop()
   ThingSpeak.writeField(myChannelField, ChannelField2, humidity, myWriteAPIKey);
   delay(1000);
 }
+
 
 
 # CIRCUIT DIAGRAM:
