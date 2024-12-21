@@ -1,5 +1,8 @@
 # Uploading temperature sensor data in Thing Speak cloud
 
+NAME: THARUN P S
+REG.NO: 24900117
+
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
@@ -75,6 +78,8 @@ Automatically act on your data and communicate using third-party services like T
 # CIRCUIT DIAGRAM:
 
 # OUTPUT:
+![Screenshot 2024-12-21 090906](https://github.com/user-attachments/assets/ff2d7bcd-876b-42d6-8bec-55354b7c5b20)
+
 
 # RESULT:
 
