@@ -1,6 +1,7 @@
 # Uploading temperature sensor data in Thing Speak cloud
 
 NAME: THARUN P S
+
 REG.NO: 24900117
 
 # AIM:
