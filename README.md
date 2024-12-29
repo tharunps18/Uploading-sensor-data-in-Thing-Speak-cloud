@@ -1,8 +1,6 @@
-# Uploading temperature sensor data in Thing Speak cloud
-
-NAME: THARUN P S
-
-REG.NO: 24900117
+# NAME: THARUN P S
+#REF NO: 24900117
+# EX.NO:3  Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -78,6 +76,7 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+~~~
 #include"ThingSpeak.h"
 #include <WiFi.h>
 #include "DHT.h"
@@ -131,6 +130,7 @@ void loop()
   ThingSpeak.writeField(myChannelField, ChannelField2, humidity, myWriteAPIKey);
   delay(1000);
 }
+~~~
 
 
 
